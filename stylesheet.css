@@ -1,1 +1,5 @@
-
+body {
+    background-repeat: no-repeat;
+    background-color: #CCCCFF;
+    background-size: cover;
+}
